@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @FOLADAVE
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-FOLADAVE/FOLADAVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! I'm Folarin Obajenihi.
+I design interactive, responsive user friendly websites.
+I focus on beautiful web interfaces, responsive designs, interactivity, testing, debugging and crafting a unique user experience. 
+folarinobajenihi@gmail.com
